@@ -1,4 +1,7 @@
+# sample img
+
 <img width="950" alt="elite-autos-landing-page" src="https://github.com/user-attachments/assets/161aa310-364c-4373-bdde-9c43099e106f">
+
 # Elite Autos Landing Page
 
 **Elite Autos** is a landing page designed to showcase luxury vehicles and provide an engaging user experience. The page features a striking visual design with a call-to-action for booking a dream car.

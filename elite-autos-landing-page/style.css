@@ -1,0 +1,131 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+ 
+}
+.headline{
+    font-family: 'poppins' , sans-serif   ;
+    color: rgb(255, 255, 255);
+    display: flex;
+    padding-top: 50px;
+    padding-right: 50%;
+    
+}
+
+.background-wapper{
+    background-image: url(img/bmw-1.jpg);
+    position: relative;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}  
+  
+
+header {
+    
+    color: deepskyblue;
+    display: flex;
+    justify-content: flex-end;
+    padding:15px 10%;
+    align-items: center;
+    
+    
+} 
+
+
+
+.navbar a{
+    color: red;
+}
+
+li,a{
+    text-decoration: none;
+    font-weight: 30%;
+    font-size: medium;
+}
+
+.logo{
+    width: 70px;
+    height: 70px;
+    margin-right: 20px;
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 0px 25px;
+    
+    
+}
+
+ul li a:hover{
+    color: rgb(181, 11, 215);
+    transition: all 0.3s ease 0s;
+}
+.content {
+    text-align: center; 
+    margin: 20px; 
+    padding: 20px; 
+}
+
+h1 {
+    font-size: 2.5em; 
+    margin: 0; 
+    padding-bottom: 25px; 
+}
+
+.description {
+    font-size: 1.2em; 
+    margin: 0; 
+    padding-bottom: 20px;
+}
+span{
+    color: red;
+}
+
+.book-btn{
+    padding: 20px 20px;
+    color: white;
+    background-color: rgb(253, 6, 10);
+    border-width: 0cap;
+    border-radius: 10%;
+    animation-name: book;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+}
+
+@keyframes book {
+    50%{
+        background-color: rgb(140, 41, 41);
+        border-radius: 25%;
+    }
+    100%{
+        background-color: rgb(230, 62, 62);
+        border-radius: 50%;
+    }
+}
+
+.book-btn:hover{
+    background-color:transparent;
+}
+.social-media{
+    padding-left: 17%;
+    padding-top: 40px;
+  
+
+}
+.social-media a{
+   
+   color: white;
+   line-height: 1px;
+    
+}
+
+.social-media a:hover{
+    width: 100px;
+    height: 100px;
+    color: lightblue;
+    transition: transform 0.3s ease;
+}

@@ -19,4 +19,5 @@
 ● **CSS**: Styling, including animations and layout.
 
 ● **Font Awesome**: Icons for social media links.
+
 ● **Google Fonts**: Custom typography

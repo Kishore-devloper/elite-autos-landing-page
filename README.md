@@ -1,8 +1,8 @@
-#Elite Autos Landing Page
+# Elite Autos Landing Page
 
 **Elite Autos** is a landing page designed to showcase luxury vehicles and provide an engaging user experience. The page features a striking visual design with a call-to-action for booking a dream car.
 
-#Features
+# Features
 
 ● **Hero Section**: Engaging introduction with a booking button.
 
@@ -12,7 +12,7 @@
 
 ● **Background Image**: Full-screen background to enhance visual appeal.
 
-#Technologies Used
+# Technologies Used
 
 ● **HTML**: Structure and content of the landing page.
 
